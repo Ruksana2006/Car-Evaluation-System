@@ -1,0 +1,16 @@
+CAR EVALUATION ML MODEL REPORT
+==============================
+Model Used: Random Forest Classifier (150 Trees)
+Test Accuracy: 100.00%
+
+Detailed Classification Report:
+              precision    recall  f1-score   support
+
+Unacceptable       1.00      1.00      1.00       231
+  Acceptable       1.00      1.00      1.00        99
+        Good       1.00      1.00      1.00        13
+   Very Good       1.00      1.00      1.00         3
+
+    accuracy                           1.00       346
+   macro avg       1.00      1.00      1.00       346
+weighted avg       1.00      1.00      1.00       346
