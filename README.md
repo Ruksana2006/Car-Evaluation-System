@@ -5,7 +5,7 @@
 | :--- | :--- |
 | **Intern ID** | CITS9595 |
 | **Full Name** | Shaik Ruksana |
-| **No. of Weeks** |8 weeka |
+| **No. of Weeks** |8 weeks |
 | **Project Name** | Car Evaluation System |
 | **Project Scope** | End-to-End Data Science, Machine Learning Classification, Visual Analytics, and Interactive Car Evaluation Dashboard |
 
